@@ -13,7 +13,7 @@ Handle missing values appropriately (e.g., imputing or
 removing).
 Convert categorical features into numerical ones using
 techniques like one-hot encoding.
-Normalize or scale the features if necessary.
+Normalize or scale the features if necessary. 
 
 2-Feature Selection:
 Select the features you will use to train your model.
